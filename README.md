@@ -1,15 +1,12 @@
 # 🎬 MovieBox - 영화와 TV 프로그램 탐색기 🍿
 
-[SITE](https://moviebox1104.netlify.app/)
+👉[MovieBox SITE](https://moviebox1104.netlify.app/)
 
 **MovieBox**는 영화와 TV 프로그램 정보를 탐색할 수 있는 간단한 웹 애플리케이션입니다.  
 이 프로젝트는 React와 API 통신을 활용한 데이터 중심의 웹 애플리케이션 개발 경험을 쌓기 위해 제작되었습니다.  
 🎥 여러분의 "오늘 뭐 볼까?" 고민을 MovieBox와 함께 해결해 보세요!  
 
 ---
-
-## 🌐 데모 바로가기  
-👉 [MovieBox 데모](https://your-demo-link.com)  
 
 ### **사용 예제**  
 - 🔍 **영화 검색**: 검색창에 "Inception"을 입력해 보세요.  
